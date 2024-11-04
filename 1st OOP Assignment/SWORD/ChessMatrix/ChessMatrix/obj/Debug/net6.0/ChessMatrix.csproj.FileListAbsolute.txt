@@ -1,0 +1,15 @@
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\bin\Debug\net6.0\ChessMatrix.exe
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\bin\Debug\net6.0\ChessMatrix.deps.json
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\bin\Debug\net6.0\ChessMatrix.runtimeconfig.json
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\bin\Debug\net6.0\ChessMatrix.dll
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\bin\Debug\net6.0\ChessMatrix.pdb
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\ChessMatrix.csproj.AssemblyReference.cache
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\ChessMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\ChessMatrix.AssemblyInfoInputs.cache
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\ChessMatrix.AssemblyInfo.cs
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\ChessMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\ChessMatrix.dll
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\refint\ChessMatrix.dll
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\ChessMatrix.pdb
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\ChessMatrix.genruntimeconfig.cache
+C:\Users\Puma\Desktop\SWORD\ChessMatrix\ChessMatrix\obj\Debug\net6.0\ref\ChessMatrix.dll

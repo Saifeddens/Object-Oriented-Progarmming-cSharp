@@ -1,0 +1,13 @@
+1 Johnny 10000
+
+1 Daddy 500000
+
+1 Johnny 200
+
+2 Daddy 500000
+
+2 Johnny 30000
+
+3 Johnny 30000
+
+4 Johnny 40000
